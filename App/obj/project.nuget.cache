@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G5O0SyQ3dLRqk7R+4ADFgtleiHISb2Uh09f4rnhkisdSq2/CvDZRKoCsRYudEBRZ0vPx/67O/wrbxK3wLVDsdg==",
+  "dgSpecHash": "QH/43Z8VBqqDORM+sqJxDx7zxKYDv7IU9oYvi0Cep66KFdR68xf3Lr0f6bxQlQg3WNXw3HOsZ5twYf1iq3hSoA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\samir\\Desktop\\Indigo\\Indigo.csproj",
+  "projectFilePath": "C:\\Users\\samir\\OneDrive\\Desktop\\Indigo\\App\\Indigo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\samir\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\samir\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

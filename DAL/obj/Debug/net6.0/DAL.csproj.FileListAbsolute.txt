@@ -1,0 +1,5 @@
+C:\Users\samir\OneDrive\Desktop\Indigo\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\samir\OneDrive\Desktop\Indigo\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samir\OneDrive\Desktop\Indigo\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\samir\OneDrive\Desktop\Indigo\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\samir\OneDrive\Desktop\Indigo\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache

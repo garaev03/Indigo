@@ -41,6 +41,7 @@ namespace Indigo.Controllers
                     UserName = register.UserName,
                 };
                 IdentityResult result = await _userManager.CreateAsync(NewUser, register.Password);
+                await _roleManager.CreateAsync(new IdentityRole() { Name = "Admin" });
                 await _userManager.AddToRoleAsync(NewUser, "Admin");
                 if (!result.Succeeded)
                 {

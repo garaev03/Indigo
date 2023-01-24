@@ -50,7 +50,6 @@ namespace Indigo.Areas.Admin.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create(PostPostDto postDto)
         {
-            
                 var result = _validator.Validate(postDto);
                 if (!result.IsValid)
                 {
@@ -82,8 +81,6 @@ namespace Indigo.Areas.Admin.Controllers
                 _context.Add(NewPost);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
-            
-            return View(postDto);
         }
 
         public async Task<IActionResult> Edit(int? id)

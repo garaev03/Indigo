@@ -10371,11 +10371,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\samir\\Desktop\\Indigo\\Indigo.csproj",
+      "projectUniqueName": "C:\\Users\\samir\\OneDrive\\Desktop\\Indigo\\App\\Indigo.csproj",
       "projectName": "Indigo",
-      "projectPath": "C:\\Users\\samir\\Desktop\\Indigo\\Indigo.csproj",
+      "projectPath": "C:\\Users\\samir\\OneDrive\\Desktop\\Indigo\\App\\Indigo.csproj",
       "packagesPath": "C:\\Users\\samir\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\samir\\Desktop\\Indigo\\obj\\",
+      "outputPath": "C:\\Users\\samir\\OneDrive\\Desktop\\Indigo\\App\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -10390,6 +10390,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -10470,7 +10471,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
